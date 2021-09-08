@@ -6,6 +6,7 @@ A tile tapping game in the key of C major.
 <p float="left">
   <img src="https://user-images.githubusercontent.com/80517108/132491282-5960e956-236b-4a2a-895a-511ae826ae7b.JPG" alt="screenshot of gameplay" width="200"/>
   <img src="https://user-images.githubusercontent.com/80517108/132491291-bf07df34-a9fb-4a6f-a522-0b99c85cb9d5.JPG" alt="screenshot of gameplay" width="200"/>
+  <img src="https://user-images.githubusercontent.com/80517108/132493515-218f9889-ca60-4c62-871e-bddc17d10e85.JPG" alt="screenshot of gameplay" width="200"/>
   <img src="https://user-images.githubusercontent.com/80517108/132491316-6f0865dd-75f1-4b59-8a05-18aff535c1d7.JPG" alt="screenshot of gameplay" width="200"/>
 </p>
 
