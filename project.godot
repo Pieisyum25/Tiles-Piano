@@ -1,0 +1,35 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+[application]
+
+config/name="Tiles Piano"
+run/main_scene="res://Scenes/Game.tscn"
+config/icon="res://Images/piano_tile_grey.png"
+
+[display]
+
+window/size/width=720
+window/size/height=1480
+window/handheld/orientation="portrait"
+window/stretch/aspect="keep_height"
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_clear_color=Color( 1, 1, 1, 1 )
+environment/default_environment="res://default_env.tres"

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bruh.mp3-1defd636749f088587b5f3117de8ecf2.mp3str"
+
+[deps]
+
+source_file="res://Note Samples/bruh.mp3"
+dest_files=[ "res://.import/bruh.mp3-1defd636749f088587b5f3117de8ecf2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
