@@ -16,7 +16,7 @@ A tile tapping game in the key of C major.
 
 **Play it here (via itch.io): https://pieisyum25.itch.io/tiles-piano**
 
-**Alternatively, download the .apk file "Tiles Piano.apk" to play it on your Android device."**
+**Alternatively, download the .apk file "Tiles Piano.apk" to play it on your Android device.**
 
 ### Controls:
 - '1', '2', '3', and '4' to hit notes.
